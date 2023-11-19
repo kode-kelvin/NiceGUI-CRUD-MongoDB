@@ -43,7 +43,7 @@ Once you've cloned the project, installed the requirements, and configured the M
 python app.py
 ```
 
-This will start the FastAPI server and make the application accessible at [http://localhost:8000](http://localhost:8000).
+This will start the NiceGUI server and make the application accessible at [http://localhost:8000](http://localhost:8000).
 
 ## Usage
 

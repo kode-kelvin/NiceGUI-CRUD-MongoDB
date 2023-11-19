@@ -27,8 +27,8 @@ To begin working with this project, follow these steps:
 
 ## Configuration
 
-Before running the application, make sure to set up the MongoDB connection in the `config.py` file. Open the file and update the `MONGODB_URI` variable with your MongoDB connection URI.
-# .env
+Before running the application, make sure to set up the MongoDB connection in the `.env` file. Open the file and update the `MONGODB_URI` variable with your MongoDB connection URI.
+# .env 
 
 SECRET_KEY=yourSecretKey
 DB_PASSWORD=yourMongodbPassword
